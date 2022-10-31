@@ -1,0 +1,47 @@
+@media (max-width: 620px) {
+  .btn {
+    padding: 0.6rem 1.6rem;
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 490px) {
+  .hexadecimal {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 470px) {
+  .hexadecimal {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 460px) {
+  .btn {
+    padding: 0.6rem 1.7rem;
+    font-size: 1.2rem;
+  }
+
+  .hexadecimal {
+    font-size: 1.1rem;
+  }
+
+  #cor-5 {
+    display: none;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 400px) {
+  .btn {
+    padding: 0.6rem 1.7rem;
+    font-size: 1.1rem;
+  }
+
+  .hexadecimal {
+    font-size: 1rem;
+  }
+  #cor-5 {
+    display: none;
+  }
+}
