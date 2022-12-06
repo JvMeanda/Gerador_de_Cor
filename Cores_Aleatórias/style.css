@@ -59,13 +59,14 @@ body {
   border: none;
   background-color: transparent;
   cursor: pointer;
+  font-size: 2rem;
 }
 
 .btn {
   position: absolute;
   bottom: 15%;
   padding: 0.7rem 2.2rem;
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   border: solid 1px #000;
   border-radius: 1rem;
   cursor: pointer;
